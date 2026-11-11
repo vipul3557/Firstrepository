@@ -1,2 +1,1 @@
 # Firstrepository
-Study purpose 
